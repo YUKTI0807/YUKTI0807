@@ -12,9 +12,6 @@ Real-world datasets, project building & staying consistent
 📚 **Currently learning:**  
 Data Analysis • SQL Optimization • EDA • Dashboarding • ML fundamentals  
 
-💬 **Ask me about:**  
-Python, SQL, and my CE-AI journey  
-
 ⚡ **Fun fact:**  
 When I decide to study, I go all in — **Consistency > Motivation 💪**
 
